@@ -233,7 +233,7 @@ Users receive an appropriate error message when weather information cannot be re
 
 ## Live Deployment
 
-Live Demo: **Add deployment link here**
+Live Demo: https://weather-dashboard-assignment-rouge.vercel.app
 
 ## GitHub Repository
 
