@@ -174,7 +174,7 @@ weather-dashboard-assignment/
 
 ## Screenshot
 
-![Weather Dashboard](./screenshots/weather-dashboard.png)
+![Weather Dashboard](./screenshots/image-1.png)
 
 ## Getting Started
 
