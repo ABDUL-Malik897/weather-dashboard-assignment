@@ -181,7 +181,7 @@ weather-dashboard-assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ABDUL-Malik897/weather-dashboard-assignment.git
 ```
 
 ### 2. Navigate to the Project
