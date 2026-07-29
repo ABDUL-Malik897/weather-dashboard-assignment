@@ -237,7 +237,7 @@ Live Demo: **Add deployment link here**
 
 ## GitHub Repository
 
-Repository: **Add GitHub repository link here**
+Repository: https://github.com/ABDUL-Malik897/weather-dashboard-assignment.git
 
 ## Assignment
 
