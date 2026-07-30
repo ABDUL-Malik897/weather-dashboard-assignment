@@ -78,6 +78,8 @@ function App() {
     }
   }, [])
 
+  console.log("DeployX is awesome")
+
   return (
     <main className="weather-app">
       <div className="weather-container">
