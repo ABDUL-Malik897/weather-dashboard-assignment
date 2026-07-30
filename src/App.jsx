@@ -78,7 +78,7 @@ function App() {
     }
   }, [])
 
-  console.log("DeployX is awesome")
+  console.log("DeployX is awesom")
 
   return (
     <main className="weather-app">
